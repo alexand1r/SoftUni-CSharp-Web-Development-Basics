@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\bin\Debug\netcoreapp2.0\3. RequestParser.deps.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\bin\Debug\netcoreapp2.0\3. RequestParser.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\bin\Debug\netcoreapp2.0\3. RequestParser.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\bin\Debug\netcoreapp2.0\3. RequestParser.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\bin\Debug\netcoreapp2.0\3. RequestParser.pdb
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.pdb
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\3. Request Parser\obj\Debug\netcoreapp2.0\3. RequestParser.csprojResolveAssemblyReference.cache

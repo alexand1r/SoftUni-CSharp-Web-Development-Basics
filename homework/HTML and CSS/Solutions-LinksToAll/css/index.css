@@ -1,0 +1,39 @@
+﻿body {
+    background: #110;
+    font-size: 20px;
+    font-family: Consolas, monospace;
+}
+
+#container {
+    width: 50%;
+    margin: 80px auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    background: #BBB;
+}
+
+.link {
+    width: 46%;
+    display: inline-block;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px 0;
+    background: #110;
+}
+
+a {
+    color: #BBB;
+}
+
+.link:hover{
+    color: #110;
+    background: #DDD;
+}
+
+a, a:hover, a:active, a:visited {
+    text-decoration: none;
+}
+
+

@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\bin\Debug\netcoreapp2.0\2.3. One To Many Relation.deps.json
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\bin\Debug\netcoreapp2.0\2.3. One To Many Relation.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\bin\Debug\netcoreapp2.0\2.3. One To Many Relation.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\bin\Debug\netcoreapp2.0\2.3. One To Many Relation.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\bin\Debug\netcoreapp2.0\2.3. One To Many Relation.pdb
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\2. One To Many Relation\obj\Debug\netcoreapp2.0\2.3. One To Many Relation.pdb

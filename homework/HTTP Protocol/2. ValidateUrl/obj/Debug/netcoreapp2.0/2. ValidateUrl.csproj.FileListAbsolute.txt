@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\bin\Debug\netcoreapp2.0\2. ValidateUrl.deps.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\bin\Debug\netcoreapp2.0\2. ValidateUrl.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\bin\Debug\netcoreapp2.0\2. ValidateUrl.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\bin\Debug\netcoreapp2.0\2. ValidateUrl.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\bin\Debug\netcoreapp2.0\2. ValidateUrl.pdb
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.pdb
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\2. ValidateUrl\obj\Debug\netcoreapp2.0\2. ValidateUrl.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.deps.json
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\bin\Debug\netcoreapp1.1\1. School Competition.pdb
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\1. School Competition\obj\Debug\netcoreapp1.1\1. School Competition.pdb

@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\bin\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.deps.json
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\bin\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\bin\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\bin\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\bin\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.pdb
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.dll
+C:\softuni\C# Web Development Basics\homework\Introduction\5.6.7.8.9. Shop Hierarchy\obj\Debug\netcoreapp2.0\5.6.7.8.9. Shop Hierarchy.pdb

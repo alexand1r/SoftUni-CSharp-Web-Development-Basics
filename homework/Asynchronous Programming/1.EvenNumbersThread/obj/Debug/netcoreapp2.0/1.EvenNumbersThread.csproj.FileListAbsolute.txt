@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\bin\Debug\netcoreapp2.0\1.EvenNumbersThread.deps.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\bin\Debug\netcoreapp2.0\1.EvenNumbersThread.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\bin\Debug\netcoreapp2.0\1.EvenNumbersThread.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\bin\Debug\netcoreapp2.0\1.EvenNumbersThread.dll
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\bin\Debug\netcoreapp2.0\1.EvenNumbersThread.pdb
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.dll
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\1.EvenNumbersThread\obj\Debug\netcoreapp2.0\1.EvenNumbersThread.pdb

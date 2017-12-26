@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\bin\Debug\netcoreapp2.0\1. DecodeUrl.deps.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\bin\Debug\netcoreapp2.0\1. DecodeUrl.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\bin\Debug\netcoreapp2.0\1. DecodeUrl.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\bin\Debug\netcoreapp2.0\1. DecodeUrl.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\bin\Debug\netcoreapp2.0\1. DecodeUrl.pdb
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.dll
+C:\softuni\C# Web Development Basics\homework\HTTP Protocol\ConsoleApp1\obj\Debug\netcoreapp2.0\1. DecodeUrl.pdb

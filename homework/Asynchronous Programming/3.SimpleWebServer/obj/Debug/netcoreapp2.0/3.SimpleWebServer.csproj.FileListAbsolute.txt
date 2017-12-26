@@ -1,0 +1,11 @@
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\bin\Debug\netcoreapp2.0\3.SimpleWebServer.deps.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\bin\Debug\netcoreapp2.0\3.SimpleWebServer.runtimeconfig.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\bin\Debug\netcoreapp2.0\3.SimpleWebServer.runtimeconfig.dev.json
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\bin\Debug\netcoreapp2.0\3.SimpleWebServer.dll
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\bin\Debug\netcoreapp2.0\3.SimpleWebServer.pdb
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.csprojResolveAssemblyReference.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.csproj.CoreCompileInputs.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.AssemblyInfoInputs.cache
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.AssemblyInfo.cs
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.dll
+C:\softuni\C# Web Development Basics\homework\Asynchronous Programming\3.SimpleWebServer\obj\Debug\netcoreapp2.0\3.SimpleWebServer.pdb
